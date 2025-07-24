@@ -1,5 +1,6 @@
-<h2 align="center">👋 안녕하세요! 저는 라즈베리파이 4로 Python을 공부 중인 정다혁입니다.</h2>
-
+<h2 align="center">👋 안녕하세요 접니다.</h2>
+<h3 align="center"> 🏃‍♂️‍➡️정다혁이랍니다🏃‍♂️‍➡️...<h3>
+  <h4 align="center"> 나혼자 레벨업 🏋️‍♀️🏋️‍♀️ <h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,7 +13,7 @@
 - 🐍 Python 
 - 🧮 Numpy, Pandas
 - 🍓 **Raspberry Pi 4**를 활용한 프로젝트
-- 💻 Git & GitHub 협업
+- 💻 Git & GitHub 협업(혼자)
 
 ---
 
