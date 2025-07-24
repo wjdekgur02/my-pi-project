@@ -1,6 +1,6 @@
 <h2 align="center">👋 안녕하세요 접니다.</h2>
-<h3 align="center"> 🏃‍♂️‍➡️정다혁이랍니다🏃‍♂️‍➡️...<h3>
-  <h4 align="center"> 나혼자 레벨업 🏋️‍♀️🏋️‍♀️ <h4>
+<h2 align="center"> 🏃‍♂️‍➡️정다혁이랍니다🏃‍♂️‍➡️...<h2>
+  <h2 align="center">  🏋️‍♀️나혼자만 레벨업 🏋️‍♀️ <h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" />
   &nbsp;&nbsp;&nbsp;&nbsp;
