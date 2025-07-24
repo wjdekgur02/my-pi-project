@@ -1,4 +1,4 @@
-<h2 align="center">👋 안녕하세요! 저는 라즈베리파이 4로 Python을 공부 중인 wjdekgur02입니다.</h2>
+<h2 align="center">👋 안녕하세요! 저는 라즈베리파이 4로 Python을 공부 중인 jungdahyuk입니다.</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" />
@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 현재 공부 중인 것
-- 🐍 Python 문법, 라이브러리
+- 🐍 Python 
 - 🧮 Numpy, Pandas
 - 🍓 **Raspberry Pi 4**를 활용한 프로젝트
 - 💻 Git & GitHub 협업
