@@ -1,4 +1,4 @@
-<h2 align="center">👋 안녕하세요! 저는 라즈베리파이 4로 Python을 공부 중인 jungdahyuk입니다.</h2>
+<h2 align="center">👋 안녕하세요! 저는 라즈베리파이 4로 Python을 공부 중인 정다혁입니다.</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" />
